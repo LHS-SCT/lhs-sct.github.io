@@ -118,9 +118,85 @@
   height:calc(100% - 20px);
   width:calc(100% - 327px);
   overflow: auto;
-  border-left: solid 7px #26ad80;
+  border-left: solid 7px #FF9900;
   background:#E0E4CC;
 }
+
+.source {
+  height:75%;
+  width:75%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+/*
+	#lecture {
+	  float:left;
+	  margin-left:5%;
+	  margin-top:5%;
+	  width:42.5%;
+	  height:20%;
+	  background-color:#A7DBD8;
+	  font-family: 'Montserrat', 'Arial';
+	  font-weight:bold;
+	  font-size:60px;
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
+	}
+
+	#lecturelogo {
+	  float:left;
+	  margin-left:5%;
+	  width:20%;
+	  height:20%;
+	  background-color:#A7DBD8;
+	  position:relative;  
+	}
+
+	#resource {
+	  margin-left:52.5%;
+	  margin-top:5%;
+	  width:42.5%;
+	  height:20%;
+	  background-color:#A7DBD8;
+	  font-family: 'Montserrat', 'Arial';
+	  font-weight:bold;
+	  font-size:60px;
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
+	}
+
+	#resourcelogo {
+	  float:left;
+	  margin-left:5%;
+	  width:20%;
+	  height:20%;
+	  background-color:#A7DBD8;
+	  position: relative;
+	}
+
+	#home {
+	  margin-top:5%;
+	  float:left;
+	  margin-left:5%;
+	  width:40%;
+	  height:40%;
+	  background-color:#A7DBD8;
+	  font-family: 'Montserrat', 'Arial';
+	  font-weight:bold;
+	  font-size:60px;
+	  display: table-cell; 
+	  vertical-align: center;
+	  text-align:center;
+	}
+*/
+
+
+
 
 /*-------------------------------*/
 
